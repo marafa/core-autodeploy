@@ -112,7 +112,7 @@ fi
 # Defaults for user provided input
 arch="x86_64"
 # ftp mirror for MySQL to use for version auto-detection:
-mysql_ftp_mirror="ftp://mirror.anl.gov/pub/mysql/Downloads/MySQL-5.5/"
+mysql_ftp_mirror="http://mirror.sfo12.us.leaseweb.net/mysql/Downloads/MySQL-5.5/"
 
 # Auto-detect latest build:
 #build=4.2.3
